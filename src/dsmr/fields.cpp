@@ -150,8 +150,8 @@ constexpr char electricity_swells_l3::name[];
 constexpr ObisId message_short::id;
 constexpr char message_short::name[];
 
-constexpr ObisId message_long::id;
-constexpr char message_long::name[];
+// constexpr ObisId message_long::id;
+// constexpr char message_long::name[];
 
 constexpr ObisId voltage_l1::id;
 constexpr char voltage_l1::name[];
